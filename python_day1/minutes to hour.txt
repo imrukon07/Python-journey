@@ -1,0 +1,3 @@
+m=int(input("Enter minutes:\n"))
+h=m/60
+print("Total hours of the Given minutes is: =",h)
