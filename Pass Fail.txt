@@ -1,0 +1,9 @@
+mark=int(input("Enter the mark:\n"))
+if mark >=60 and mark<=100 :
+    print("First Devision")
+elif mark>=45 and mark<60:
+    print("Second Devision")
+elif mark>=30 and mark<45:
+    print("Third Devision")
+else:
+    print("Fail")
