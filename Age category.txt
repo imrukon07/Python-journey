@@ -1,9 +1,0 @@
-a=input("Enter Age\n")
-if a>=3 and a<=12:
-    print("Child")
-elif a>12 and a<=17:
-    print("Teenager")
-elif a>17 and a<=59:
-    print("Adult")
-elif a>59:
-    print("Senior")
