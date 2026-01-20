@@ -1,0 +1,16 @@
+u1="Rukon"
+p1="0352"
+u2="Ruba"
+p2="2354"
+u3="mukta"
+p3="88990"
+name=input("Enter your UserName\n")
+pas=input("Enter your Password\n")
+if name==u1 and pas==p1:
+    print("Rukon Accessed")
+elif name==u2 and pas==p2:
+    print("Ruba Accessed ")
+elif name==u3 and pas==p3:
+    print("Mukta Accessed ")
+else:
+    print("Not Match")
