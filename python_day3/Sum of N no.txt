@@ -1,8 +1,0 @@
-i=0
-sum=0
-N=int(input("Enter how many numbers u want to Sum\n"))
-while (i<=N):
-    sum=sum+i
-    i+=1
-print(sum)
-    

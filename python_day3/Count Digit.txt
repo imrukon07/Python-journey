@@ -1,8 +1,0 @@
-rem=0
-count=0
-num=int(input("Enter a Number\n"))
-while num>0:
-    rem=num%10
-    num=num//10
-    count=count+1
-print(count)
